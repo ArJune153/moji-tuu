@@ -6,11 +6,11 @@
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
     </div>
     <div class="button-container">
-    <a href="https://lin.ee/P80STk2" class="custom-button1">
+    <a href="https://lin.ee/Vf2JXwg" class="custom-button1">
         <i class="fas fa-user-plus"></i>  <!-- ไอคอนสมัครสมาชิก -->
         สมัครสมาชิก
     </a>
-    <a href="https://lin.ee/P80STk2" class="custom-button2">
+    <a href="https://lin.ee/Vf2JXwg" class="custom-button2">
         <i class="fas fa-comments"></i>  <!-- ไอคอนติดต่อแอดมิน -->
         ติดต่อแอดมิน
     </a>
@@ -33,7 +33,7 @@
         <div class="card-container">
     <!-- Card 1 -->
     <div class="card">
-      <a href="https://lin.ee/P80STk2">
+      <a href="https://lin.ee/Vf2JXwg">
         <div class="card-description">
           <img class="img-game1"/>
           <!-- เพิ่มข้อความ "มาแรง" ที่มุมขวาบน -->
@@ -45,7 +45,7 @@
   </div>
     
     <div class="card">
-      <a href="https://lin.ee/P80STk2">
+      <a href="https://lin.ee/Vf2JXwg">
         <div class="card-description">
           <img class="img-game2"/>
           <div class="badge">HOT</div>
@@ -56,7 +56,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/P80STk2">
+      <a href="https://lin.ee/Vf2JXwg">
         <div class="card-description">
           <img class="img-game3" />
           <div class="badge">HOT</div>
@@ -67,7 +67,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/P80STk2">
+      <a href="https://lin.ee/Vf2JXwg">
         <div class="card-description">
           <img class="img-game4"/>
           <div class="badge">HOT</div>
@@ -78,7 +78,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/P80STk2">
+      <a href="https://lin.ee/Vf2JXwg">
         <div class="card-description">
           <img class="img-game5"/>
           <div class="badge">HOT</div>
@@ -89,7 +89,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/P80STk2">
+      <a href="https://lin.ee/Vf2JXwg">
         <div class="card-description">
           <img class="img-game6" />
           <div class="badge">HOT</div>
